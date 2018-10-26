@@ -87,8 +87,7 @@ article + nav {
 }
 
 article iframe {
-    width: 560px;
-    margin: 0 auto;
+    text-align: center;
 }
 
 article + nav ul li {
